@@ -1,0 +1,1 @@
+# Practica-6.--Software-Interactivo-para-Visualizar-Automatas-de-Pila
